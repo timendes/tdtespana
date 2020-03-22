@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1,Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1,Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,Telecinco 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,La Sexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
